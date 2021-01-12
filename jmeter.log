@@ -1,0 +1,100 @@
+2021-01-12 12:10:03,612 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-01-12 12:10:03,622 INFO o.a.j.JMeter: Loading user properties from: C:\Users\rodrigo.capelini\Downloads\apache-jmeter-5.4\apache-jmeter-5.4\bin\user.properties
+2021-01-12 12:10:03,623 INFO o.a.j.JMeter: Loading system properties from: C:\Users\rodrigo.capelini\Downloads\apache-jmeter-5.4\apache-jmeter-5.4\bin\system.properties
+2021-01-12 12:10:03,624 INFO o.a.j.JMeter: Setting JMeter property: threads=10
+2021-01-12 12:10:03,624 INFO o.a.j.JMeter: Setting JMeter property: rampup=1
+2021-01-12 12:10:03,624 INFO o.a.j.JMeter: Setting JMeter property: duration=1800
+2021-01-12 12:10:03,632 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2021-01-12 12:10:03,632 INFO o.a.j.JMeter: Version 5.4
+2021-01-12 12:10:03,632 INFO o.a.j.JMeter: java.version=1.8.0_271
+2021-01-12 12:10:03,632 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2021-01-12 12:10:03,632 INFO o.a.j.JMeter: os.name=Windows 10
+2021-01-12 12:10:03,633 INFO o.a.j.JMeter: os.arch=amd64
+2021-01-12 12:10:03,633 INFO o.a.j.JMeter: os.version=10.0
+2021-01-12 12:10:03,633 INFO o.a.j.JMeter: file.encoding=Cp1252
+2021-01-12 12:10:03,633 INFO o.a.j.JMeter: java.awt.headless=true
+2021-01-12 12:10:03,633 INFO o.a.j.JMeter: Max memory     =1073741824
+2021-01-12 12:10:03,633 INFO o.a.j.JMeter: Available Processors =8
+2021-01-12 12:10:03,637 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-01-12 12:10:03,637 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-01-12 12:10:03,637 INFO o.a.j.JMeter: JMeterHome=C:\Users\rodrigo.capelini\Downloads\apache-jmeter-5.4\apache-jmeter-5.4
+2021-01-12 12:10:03,638 INFO o.a.j.JMeter: user.dir  =C:\Users\rodrigo.capelini\Documents\ExercícioDericky
+2021-01-12 12:10:03,638 INFO o.a.j.JMeter: PWD       =C:\Users\rodrigo.capelini\Documents\ExercícioDericky
+2021-01-12 12:10:03,639 INFO o.a.j.JMeter: IP: 192.168.0.27 Name: DESKTOP-35LPGKB FullName: DESKTOP-35LPGKB
+2021-01-12 12:10:03,644 INFO o.a.j.s.FileServer: Default base='C:\Users\rodrigo.capelini\Documents\ExercícioDericky'
+2021-01-12 12:10:03,645 INFO o.a.j.s.FileServer: Set new base='C:\Users\rodrigo.capelini\Documents\ExercícioDericky\.'
+2021-01-12 12:10:03,746 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2021-01-12 12:10:03,760 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2021-01-12 12:10:03,764 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2021-01-12 12:10:03,768 INFO o.a.j.s.SaveService: Loading file: .\massa.jmx
+2021-01-12 12:10:03,804 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2021-01-12 12:10:03,807 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2021-01-12 12:10:03,833 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-01-12 12:10:03,833 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-01-12 12:10:03,833 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-01-12 12:10:03,834 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-01-12 12:10:03,834 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2021-01-12 12:10:03,834 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2021-01-12 12:10:03,874 INFO o.a.j.JMeter: Creating summariser <summary>
+2021-01-12 12:10:03,879 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2021-01-12 12:10:03,880 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-01-12 12:10:03,880 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-01-12 12:10:03,883 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2021-01-12 12:10:03,884 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2021-01-12 12:10:04,146 INFO o.a.j.JMeter: Running test (1610464204146)
+2021-01-12 12:10:04,172 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Load Test
+2021-01-12 12:10:04,173 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Load Test.
+2021-01-12 12:10:04,173 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2021-01-12 12:10:04,173 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=10 ramp-up=1 delayedStart=false
+2021-01-12 12:10:04,187 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2021-01-12 12:10:04,187 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2021-01-12 12:10:04,222 INFO o.a.j.t.JMeterThread: Thread started: Load Test 1-1
+2021-01-12 12:10:04,223 INFO o.a.j.s.FileServer: Stored: massa_viagem.csv
+2021-01-12 12:10:04,232 INFO o.a.j.s.FileServer: Stored: massa_usuario.csv
+2021-01-12 12:10:04,247 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DESKTOP-35LPGKB
+2021-01-12 12:10:04,254 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2021-01-12 12:10:04,255 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2021-01-12 12:10:04,256 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2021-01-12 12:10:04,256 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2021-01-12 12:10:04,256 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2021-01-12 12:10:04,310 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2021-01-12 12:10:04,315 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2021-01-12 12:10:04,315 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2021-01-12 12:10:04,317 INFO o.a.j.t.JMeterThread: Thread started: Load Test 1-2
+2021-01-12 12:10:04,416 INFO o.a.j.t.JMeterThread: Thread started: Load Test 1-3
+2021-01-12 12:10:04,514 INFO o.a.j.t.JMeterThread: Thread started: Load Test 1-4
+2021-01-12 12:10:04,613 INFO o.a.j.t.JMeterThread: Thread started: Load Test 1-5
+2021-01-12 12:10:04,711 INFO o.a.j.t.JMeterThread: Thread started: Load Test 1-6
+2021-01-12 12:10:04,810 INFO o.a.j.t.JMeterThread: Thread started: Load Test 1-7
+2021-01-12 12:10:04,912 INFO o.a.j.t.JMeterThread: Thread started: Load Test 1-8
+2021-01-12 12:10:05,008 INFO o.a.j.t.JMeterThread: Thread started: Load Test 1-9
+2021-01-12 12:10:05,109 INFO o.a.j.t.JMeterThread: Thread started: Load Test 1-10
+2021-01-12 12:10:05,160 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2021-01-12 12:10:05,161 INFO o.a.j.u.SSLManager: KeyStore created OK
+2021-01-12 12:10:05,161 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2021-01-12 12:10:29,276 INFO o.a.j.t.JMeterThread: Stop Thread seen for thread Load Test 1-1, reason: org.apache.jorphan.util.JMeterStopThreadException: End of file:massa_viagem.csv detected for CSV DataSet:CSV Data Set Config - OrigemDestino configured with stopThread:true, recycle:false
+2021-01-12 12:10:29,276 INFO o.a.j.t.JMeterThread: Thread finished: Load Test 1-1
+2021-01-12 12:10:42,327 INFO o.a.j.t.JMeterThread: Stop Thread seen for thread Load Test 1-5, reason: org.apache.jorphan.util.JMeterStopThreadException: End of file:massa_viagem.csv detected for CSV DataSet:CSV Data Set Config - OrigemDestino configured with stopThread:true, recycle:false
+2021-01-12 12:10:42,327 INFO o.a.j.t.JMeterThread: Thread finished: Load Test 1-5
+2021-01-12 12:11:06,521 INFO o.a.j.t.JMeterThread: Stop Thread seen for thread Load Test 1-9, reason: org.apache.jorphan.util.JMeterStopThreadException: End of file:massa_viagem.csv detected for CSV DataSet:CSV Data Set Config - OrigemDestino configured with stopThread:true, recycle:false
+2021-01-12 12:11:06,522 INFO o.a.j.t.JMeterThread: Thread finished: Load Test 1-9
+2021-01-12 12:11:14,376 INFO o.a.j.t.JMeterThread: Stop Thread seen for thread Load Test 1-2, reason: org.apache.jorphan.util.JMeterStopThreadException: End of file:massa_viagem.csv detected for CSV DataSet:CSV Data Set Config - OrigemDestino configured with stopThread:true, recycle:false
+2021-01-12 12:11:14,376 INFO o.a.j.t.JMeterThread: Thread finished: Load Test 1-2
+2021-01-12 12:11:30,952 INFO o.a.j.r.Summariser: summary +     31 in 00:01:27 =    0.4/s Avg:  9888 Min:  1094 Max: 65535 Err:     0 (0.00%) Active: 6 Started: 10 Finished: 4
+2021-01-12 12:11:30,955 INFO o.a.j.t.JMeterThread: Stop Thread seen for thread Load Test 1-4, reason: org.apache.jorphan.util.JMeterStopThreadException: End of file:massa_viagem.csv detected for CSV DataSet:CSV Data Set Config - OrigemDestino configured with stopThread:true, recycle:false
+2021-01-12 12:11:30,955 INFO o.a.j.t.JMeterThread: Thread finished: Load Test 1-4
+2021-01-12 12:11:46,206 INFO o.a.j.t.JMeterThread: Stop Thread seen for thread Load Test 1-6, reason: org.apache.jorphan.util.JMeterStopThreadException: End of file:massa_viagem.csv detected for CSV DataSet:CSV Data Set Config - OrigemDestino configured with stopThread:true, recycle:false
+2021-01-12 12:11:46,206 INFO o.a.j.t.JMeterThread: Thread finished: Load Test 1-6
+2021-01-12 12:11:47,670 INFO o.a.j.t.JMeterThread: Stop Thread seen for thread Load Test 1-3, reason: org.apache.jorphan.util.JMeterStopThreadException: End of file:massa_viagem.csv detected for CSV DataSet:CSV Data Set Config - OrigemDestino configured with stopThread:true, recycle:false
+2021-01-12 12:11:47,670 INFO o.a.j.t.JMeterThread: Thread finished: Load Test 1-3
+2021-01-12 12:11:57,961 INFO o.a.j.t.JMeterThread: Stop Thread seen for thread Load Test 1-10, reason: org.apache.jorphan.util.JMeterStopThreadException: End of file:massa_viagem.csv detected for CSV DataSet:CSV Data Set Config - OrigemDestino configured with stopThread:true, recycle:false
+2021-01-12 12:11:57,962 INFO o.a.j.t.JMeterThread: Thread finished: Load Test 1-10
+2021-01-12 12:12:08,249 INFO o.a.j.t.JMeterThread: Stop Thread seen for thread Load Test 1-8, reason: org.apache.jorphan.util.JMeterStopThreadException: End of file:massa_viagem.csv detected for CSV DataSet:CSV Data Set Config - OrigemDestino configured with stopThread:true, recycle:false
+2021-01-12 12:12:08,250 INFO o.a.j.t.JMeterThread: Thread finished: Load Test 1-8
+2021-01-12 12:12:09,375 INFO o.a.j.t.JMeterThread: Stop Thread seen for thread Load Test 1-7, reason: org.apache.jorphan.util.JMeterStopThreadException: End of file:massa_viagem.csv detected for CSV DataSet:CSV Data Set Config - OrigemDestino configured with stopThread:true, recycle:false
+2021-01-12 12:12:09,375 INFO o.a.j.t.JMeterThread: Thread finished: Load Test 1-7
+2021-01-12 12:12:09,377 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2021-01-12 12:12:09,377 INFO o.a.j.s.FileServer: Close: massa_viagem.csv
+2021-01-12 12:12:09,377 INFO o.a.j.s.FileServer: Close: massa_usuario.csv
+2021-01-12 12:12:09,386 INFO o.a.j.r.Summariser: summary +     13 in 00:00:38 =    0.3/s Avg: 41508 Min:   305 Max: 97721 Err:     0 (0.00%) Active: 0 Started: 10 Finished: 10
+2021-01-12 13:18:23,464 INFO o.a.j.r.Summariser: summary =     44 in 01:08:19 =    0.0/s Avg: 19230 Min:   305 Max: 97721 Err:     0 (0.00%)

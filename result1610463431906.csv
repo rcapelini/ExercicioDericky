@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1610463432006,1352,1.1 - GET - Home,200,OK,Smoke Test 1-1,text,true,,1393,463,1,1,https://blazedemo.com/,1351,0,300
+1610463433359,295,2.1 - POST - Reserve,200,OK,Smoke Test 1-1,text,true,,1620,529,1,1,https://blazedemo.com/reserve.php,291,0,0
+1610463433654,492,3.1 - POST - Purchase,200,OK,Smoke Test 1-1,text,true,,1772,576,1,1,https://blazedemo.com/purchase.php,491,0,0
+1610463434147,1295,4.1 - POST - Confirmation,200,OK,Smoke Test 1-1,text,true,,1435,722,1,1,https://blazedemo.com/confirmation.php,1293,0,0
